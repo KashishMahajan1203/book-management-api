@@ -20,6 +20,25 @@ A simple and scalable RESTful API for managing a collection of books, built with
 - **uuid** – To generate unique book IDs (optional)
 - **body-parser** – Middleware for parsing JSON request bodies
 
+
+## 📸 Screenshots
+
+### GET /books Get list of all books
+![/books ](https://res.cloudinary.com/dfacldueh/image/upload/v1747204002/Screenshot_2025-05-14_115154_bueeri.png)
+
+### GET /books/:id Get details of a specific book
+![/books/:id](https://res.cloudinary.com/dfacldueh/image/upload/v1747204002/Screenshot_2025-05-14_115219_wzdeih.png)
+
+## POST /books Add a new book
+![/books](https://res.cloudinary.com/dfacldueh/image/upload/v1747204002/Screenshot_2025-05-14_115231_lbs1sj.png)
+
+## PUT /books/:id Update an existing book
+![/books/:id](https://res.cloudinary.com/dfacldueh/image/upload/v1747204002/Screenshot_2025-05-14_115347_b9nrhv.png)
+
+## DELETE /books/:id Delete a book
+![/books/:id](https://res.cloudinary.com/dfacldueh/image/upload/v1747204012/Screenshot_2025-05-14_115359_w0ebhe.png)
+
+
 ---
 
 ## 📦 Installation
